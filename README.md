@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TejasJawalkar
+- 👋 Hi, I’m @Tejas Jawalkar
 - 👀 I’m interested in ReactJS, Web Developement
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on ...
