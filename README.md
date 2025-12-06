@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi, I’m Tejas Jawalkar<br><br>I am a Software Engineer with 3+ years of experience in full-stack web development. I enjoy building reliable, scalable, and user-friendly applications. I have completed my MCA from Solapur University and I am currently working at Brainlines Solutions.<br>Previously, I worked at Splashgain Technology Solutions Pvt. Ltd.I am a Software Engineer with 3+ years of experience in full-stack web development. I enjoy building reliable, scalable, and user-friendly applications. I have completed my MCA from Solapur University and I am currently working at Brainlines Solutions.<br>Previously, I worked at Splashgain Technology Solutions Pvt. Ltd.<br><br>Skills:<br>Frontend: ReactJS, Angular, JavaScript, HTML, CSS, Bootstrap<br>Backend: ASP.NET Core, Web API, Node.js, Express.js<br>Database: Oracle SQL, MySQL<br>ORM / Tools: Dapper, Entity Framework Core<br>Others: Crystal Reports, Git, Postman<br><br>Interests:<br>Web Development<br>Data Structures & Algorithms<br>API Development<br>System Design<br>Reporting & Dashboards<br><br>Currently Learning:<br>Clean Architecture<br>Design Patterns<br>Performance Optimization<br>DevOps Basics (CI/CD, Containers)<br><br>Contact:<br>Portfolio: https://tejas-jawalkar-profile.vercel.app<br>Phone: +91 9172804246
+Hi, I’m Tejas Jawalkar<br><br>
+I am a <b>Software Engineer</b> with <b>3+ years</b> of experience in <b>Full-Stack</b> web development.<br>
+I enjoy building reliable, scalable, and user-friendly applications.<br>
+I have completed my <b>MCA</b> from Solapur University and I am currently working at <b>Brainlines Solutions Pvt. Ltd.,</b>
+
+<br><br>
+
+I am working at a client location (DTCS now named as T-System) where I contribute to projects in the Healthcare domain.<br>
+Previously, I worked at <b>Splashgain Technology Solutions Pvt. Ltd.</b>, where I gained extensive experience in the EdTech domain.
+
+
+<br><br>Skills:<br>Frontend: ReactJS, Angular, JavaScript, HTML, CSS, Bootstrap<br>Backend: ASP.NET Core, Web API, Node.js, Express.js<br>Database: Oracle SQL, MySQL<br>ORM / Tools: Dapper, Entity Framework Core<br>Others: Crystal Reports, Git, Postman<br><br>Interests:<br>Web Development<br>Data Structures & Algorithms<br>API Development<br>System Design<br>Reporting & Dashboards<br><br>Currently Learning:<br>Clean Architecture<br>Design Patterns<br>Performance Optimization<br>DevOps Basics (CI/CD, Containers)<br><br>Contact:<br>Portfolio: https://tejas-jawalkar-profile.vercel.app<br>Phone: +91 9172804246
 
 
 ## 🌐 Socials:
