@@ -6,7 +6,7 @@ I have completed my <b>MCA</b> from Solapur University and I am currently workin
 <br><br>
 I am working at a client location (T-System ICT India) where I contribute to projects in the Healthcare domain.<br>
 Previously, I worked at <b>Splashgain Technology Solutions Pvt. Ltd.</b>, where I gained extensive experience in the EdTech domain.
-<br><br>Skills:<br>Frontend: ReactJS, Angular, JavaScript, HTML, CSS, Bootstrap<br>Backend: ASP.NET Core, Web API, Node.js, Express.js<br>Database: Oracle SQL, MySQL<br>ORM / Tools: Dapper, Entity Framework Core<br>Others: Crystal Reports, Git, Postman<br><br>Interests:<br>Web Development<br>Data Structures & Algorithms<br>API Development<br>System Design<br>Reporting & Dashboards<br><br><b>Currently Learning:</b><br>Clean Architecture<br>Design Patterns<br>Performance Optimization<br>DevOps Basics (CI/CD, Containers)<br><br>Contact:<br>Portfolio: https://tejas-jawalkar-profile.vercel.app<br>Phone: +91 9172804246
+<br><br><b>Skills:</b><br>Frontend: ReactJS, Angular, JavaScript, HTML, CSS, Bootstrap<br>Backend: ASP.NET Core, Web API, Node.js, Express.js<br>Database: Oracle SQL, MySQL<br>ORM / Tools: Dapper, Entity Framework Core<br>Others: Crystal Reports, Git, Postman<br><br><b>Interests:</b><br>Web Development<br>Data Structures & Algorithms<br>API Development<br>System Design<br>Reporting & Dashboards<br><br><b>Currently Learning:</b><br>Clean Architecture<br>Design Patterns<br>Performance Optimization<br>DevOps Basics (CI/CD, Containers)<br><br>Contact:<br>Portfolio: https://tejas-jawalkar-profile.vercel.app<br>Phone: +91 9172804246
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejassj1998@gmail.com) 
