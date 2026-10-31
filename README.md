@@ -4,7 +4,7 @@ I am a <b>Software Engineer</b> with <b>3+ years</b> of experience in <b>Full-St
 I enjoy building reliable, scalable, and user-friendly applications.<br>
 I have completed my <b>MCA</b> from Solapur University and I am currently working at <b>Brainlines Solutions Pvt. Ltd.,</b>
 <br><br>
-I am working at a client location (T-System ICT India) where I contribute to projects in the Healthcare domain.<br>
+I am working at Brainlines Solution PVT LTD on-site client location (T-Systems ICT India PVT) where I contribute to projects in the Healthcare domain.<br>
 Previously, I worked at <b>Splashgain Technology Solutions Pvt. Ltd.</b>, where I gained extensive experience in the EdTech domain.
 <br><br><b>Skills:</b><br>Frontend: ReactJS, Angular, JavaScript, HTML, CSS, Bootstrap<br>Backend: ASP.NET Core, Web API, Node.js, Express.js<br>Database: Oracle SQL, MySQL<br>ORM / Tools: Dapper, Entity Framework Core<br>Others: Crystal Reports, Git, Postman<br><br><b>Interests:</b><br>Web Development<br>Design Patterns<br>Data Structures & Algorithms<br>API Development<br>System Design<br>Reporting & Dashboards<br><br><b>Currently Learning:</b><br>Clean Architecture<br>Microservices<br>Kubernetes<br>Kafka<br>Performance Optimization<br>DevOps Basics (CI/CD, Containers)<br><br>Contact:<br>Portfolio: https://tejas-jawalkar-profile.vercel.app<br>Phone: +91 9172804246
 
